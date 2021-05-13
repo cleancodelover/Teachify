@@ -1,0 +1,12 @@
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\bin\Release\netcoreapp3.1\Teachify.DAL.deps.json
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\bin\Release\netcoreapp3.1\Teachify.DAL.runtimeconfig.json
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\bin\Release\netcoreapp3.1\Teachify.DAL.runtimeconfig.dev.json
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\bin\Release\netcoreapp3.1\Teachify.DAL.dll
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\bin\Release\netcoreapp3.1\Teachify.DAL.pdb
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.csprojAssemblyReference.cache
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.AssemblyInfoInputs.cache
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.AssemblyInfo.cs
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.dll
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.pdb
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.DAL\obj\Release\netcoreapp3.1\Teachify.DAL.genruntimeconfig.cache

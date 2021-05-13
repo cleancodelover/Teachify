@@ -1,0 +1,12 @@
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\bin\Debug\netcoreapp3.1\Teachify.DAL.dll
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.csprojAssemblyReference.cache
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.AssemblyInfoInputs.cache
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.AssemblyInfo.cs
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\bin\Debug\netcoreapp3.1\Teachify.BLL.deps.json
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\bin\Debug\netcoreapp3.1\Teachify.BLL.dll
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\bin\Debug\netcoreapp3.1\Teachify.BLL.pdb
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\bin\Debug\netcoreapp3.1\Teachify.DAL.pdb
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.csproj.CopyComplete
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.dll
+C:\Users\Fdc_dev\source\repos\Teachify.API\Teachify.BLL\obj\Debug\netcoreapp3.1\Teachify.BLL.pdb
